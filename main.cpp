@@ -19,8 +19,10 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout << "Bonjour" << endl;
-    cout << "Aurevoir" << endl;
+    cout << "Test 1" << endl;
+    cout << "Test 2"<< endl;
+    cout <<"Test 3"<< endl;
+    cout << "test 4" << endl;
     return 0;
 }
 
